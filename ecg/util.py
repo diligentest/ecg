@@ -1,5 +1,5 @@
 import os
-import Pickle as pickle
+import pickle
 
 def load(dirname):
     preproc_f = os.path.join(dirname, "preproc.bin")
