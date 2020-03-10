@@ -10,7 +10,7 @@ import os
 import random
 import time
 
-import network
+import network_200310 as network
 import load
 import util
 
